@@ -55,5 +55,5 @@ while a:
         time.sleep(0.01) 
 
 
-#GEMINI_API_KEY=AIzaSyCGhgP7CsETC4Aijr26dsEC_y_WF2TwTUI
+#GEMINI_API_KEY=...
 #export GEMINI_API_KEY
